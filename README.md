@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Complete AI & Machine Learning Challenge
+# Complete AI & Machine Learning Challenge
 ### *From Python Foundations to Cutting-Edge Artificial Intelligence & MLOps*
 
 [![GitHub Stars](https://img.shields.io/github/stars/AmitKumarPrasad1846/Complete_AI_ML_challenge?style=for-the-badge&logo=github&color=f59e0b)](https://github.com/AmitKumarPrasad1846/Complete_AI_ML_challenge/stargazers)
